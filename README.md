@@ -1,4 +1,4 @@
-# ðŸ“Š Marketing Analytics Dashboard
+Marketing Analytics Dashboard
 ### RFM Customer Segmentation & Sales Intelligence | MBA Marketing Project
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
@@ -8,7 +8,7 @@
 
 ---
 
-## ðŸŽ¯ Project Overview
+## Project Overview
 
 This project applies **data-driven marketing analytics** to an e-commerce dataset, combining business strategy with Python-based analysis. It demonstrates how marketers can use customer behavior data to drive revenue decisions â€” a core skill for Marketing Analyst, FinTech, and Consulting roles.
 
@@ -16,35 +16,35 @@ This project applies **data-driven marketing analytics** to an e-commerce datase
 
 ---
 
-## ðŸ“Œ Key Insights Generated
+## Key Insights Generated
 
 | Metric | Value |
 |---|---|
-| Total Revenue Analyzed | â‚¹8,81,497 |
+| Total Revenue Analyzed | 8,81,497 |
 | Unique Customers | 495 |
-| Average Order Value | â‚¹440.75 |
-| At-Risk Revenue (Recoverable) | â‚¹54,957 |
+| Average Order Value | 440.75 |
+| At-Risk Revenue (Recoverable) | 54,957 |
 | Top Revenue Channel | Organic Search (28.8%) |
 | Best Performing Category | Electronics (59%) |
 
 ---
 
-## ðŸ” Analysis Breakdown
+## Analysis Breakdown
 
 ### 1. RFM Customer Segmentation
 RFM (Recency, Frequency, Monetary) is the gold standard for customer segmentation in marketing. Each customer is scored across three dimensions:
 
-- **Recency** â€” How recently did they purchase?
-- **Frequency** â€” How often do they buy?
-- **Monetary** â€” How much do they spend?
+- **Recency**  How recently did they purchase?
+- **Frequency** How often do they buy?
+- **Monetary** How much do they spend?
 
 | Segment | Count | Strategy |
 |---|---|---|
-| ðŸ† Champions | 133 | Reward & retain â€” your VIPs |
-| ðŸ’™ Loyal Customers | 123 | Upsell & cross-sell |
-| ðŸŸ£ Potential | 111 | Nurture with targeted campaigns |
-| âš ï¸ At Risk | 87 | Re-engage via email/offers |
-| âŒ Lost Customers | 41 | Win-back campaigns |
+| Champions | 133 | Reward & retain your VIPs |
+| Loyal Customers | 123 | Upsell & cross-sell |
+| Potential | 111 | Nurture with targeted campaigns |
+| At Risk | 87 | Re-engage via email/offers |
+| Lost Customers | 41 | Win-back campaigns |
 
 ### 2. Sales Trend Analysis
 - Monthly revenue tracked across 18 months (Jan 2023 â€“ Jun 2024)
@@ -60,13 +60,13 @@ Revenue breakdown across Electronics, Clothing, Home & Garden, Sports, Beauty â
 
 ---
 
-## ðŸ“ˆ Dashboard Preview
+## Dashboard Preview
 
 ![Marketing Dashboard](outputs/marketing_dashboard.png)
 
 ---
 
-## ðŸ› ï¸ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -78,7 +78,7 @@ Revenue breakdown across Electronics, Clothing, Home & Garden, Sports, Beauty â
 
 ---
 
-## ðŸš€ How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -96,34 +96,33 @@ Output files will be saved in the `/outputs/` folder.
 
 ---
 
-## ðŸ“ Project Structure
+## Project Structure
 
 ```
 marketing-analytics-dashboard/
-â”‚
-â”œâ”€â”€ marketing_analysis.py     # Main analysis script
-â”œâ”€â”€ data/
-â”‚   â””â”€â”€ ecommerce_data.csv    # Generated e-commerce dataset
-â”œâ”€â”€ outputs/
-â”‚   â””â”€â”€ marketing_dashboard.png  # Final dashboard
-â”œâ”€â”€ requirements.txt
-â””â”€â”€ README.md
+ marketing_analysis.py     # Main analysis script
+ data/
+ ecommerce_data.csv    # Generated e-commerce dataset
+ outputs/
+ marketing_dashboard.png  # Final dashboard
+ requirements.txt
+ README.md
 ```
 
 ---
 
-## ðŸ’¡ Business Recommendations
+## Business Recommendations
 
 Based on the analysis:
 
-1. **Re-engage At-Risk customers** (87 customers, â‚¹54,957 recoverable revenue) via personalized email campaigns with discount codes
-2. **Double down on Organic Search** â€” highest ROI channel; invest in SEO content strategy
-3. **Electronics upsell opportunity** â€” Champions spend 5x more than average; create premium product bundles
-4. **Seasonal planning** â€” Pre-load inventory & ad spend ahead of Novâ€“Dec peak
+1. **Re-engage At-Risk customers** (87 customers, 54,957 recoverable revenue) via personalized email campaigns with discount codes
+2. **Double down on Organic Search**  highest ROI channel; invest in SEO content strategy
+3. **Electronics upsell opportunity** Champions spend 5x more than average; create premium product bundles
+4. **Seasonal planning** Pre-load inventory & ad spend ahead of Novâ€“Dec peak
 
 ---
 
-## ðŸ“š Concepts Applied
+## Concepts Applied
 
 - RFM Analysis (Recency, Frequency, Monetary)
 - Customer Lifetime Value (CLV) thinking
@@ -133,10 +132,10 @@ Based on the analysis:
 
 ---
 
-## ðŸ‘¤ Author
+## Author
 
-**[Your Name]**
-MBA â€” Marketing & Finance (Dual Specialization)
+**[Aniket]**
+MBA Marketing & Finance (Dual Specialization)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
